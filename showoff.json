@@ -1,6 +1,7 @@
 { 
-    "name": "My Preso", 
+    "name": "Riak - Dynamo other way",
+    "description": "Riak for Pythoneers", 
     "sections": [ 
-        {"section":"one"} 
+        {"section":"riak"} 
     ]
 }
