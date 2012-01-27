@@ -16,3 +16,7 @@
 !SLIDE center
 ## Developed for 
 ![SalesForce](ext/salesforce-logo.jpg)
+
+!SLIDE
+## Apache license
+(with commercial plan)
