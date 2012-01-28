@@ -1,1 +1,1 @@
-[Here](sputnikus.github.com/riak-lightning-talk)
+[Here](http://sputnikus.github.com/riak-lightning-talk)
